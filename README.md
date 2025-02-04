@@ -3,4 +3,4 @@
 
 # Name: Jillian Conway
 
-# Comments: 
+# Comments: This is my lab 2 assignment where I created a simple contact form!
